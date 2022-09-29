@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ContactZer</string>
+    <string name="formulaire">Veuillez entrer les informations de votre contact: </string>
+</resources>
